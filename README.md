@@ -8,6 +8,19 @@ This repository contains the data analysis of a company's sales report using Exc
 * Visualize the findings using charts.
 
 ## Table Of Contents
+
 * [Dataset](#dataset)
 * [Objectives](#objectives)
-* 
+* [Steps](#steps)
+   * Step 1: Data Preparation
+   * Step 2: Creating the Pivot Table
+   * Step 3: Analyzing the Data
+   * Step 4: Visualizing the Data
+* [Results](#results)
+   * Sales by Region
+   * Sales by Product
+   * Salesperson Performance
+* [Conclusion](#conclusion)
+* How to Use
+* License
+  
