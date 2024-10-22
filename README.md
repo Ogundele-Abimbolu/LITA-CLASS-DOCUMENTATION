@@ -23,4 +23,15 @@ This repository contains the data analysis of a company's sales report using Exc
 * [Conclusion](#conclusion)
 * How to Use
 * License
-  
+
+## Dataset
+The dataset used for this analysis contains the following columns:
+
+* Date: The date of the sale.
+* Region: The region where the sale took place (e.g., North, South, East, West).
+* Salesperson: The name of the salesperson handling the transaction.
+* Product: The product that was sold.
+* Units Sold: The number of units sold.
+* Unit Price: The price of each unit.
+* Total Sales: The total amount from the sale (Units Sold x Unit Price).
+The dataset is available as sales_data.xlsx in the repository.
